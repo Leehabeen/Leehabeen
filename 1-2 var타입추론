@@ -1,0 +1,10 @@
+void main() {
+  //다트는 변수타입을 직접 명시하지 않고 var로 대체 할 수 있는 타입 추론을 지원합니다
+  var i = 10; //int 타입
+  var d = 10.0; //double 타입
+  var s = 'Hello'; //String 타입
+  var b = true; //불리언 타입
+  var b = i < 10; //불리언 타입
+  var b = s.isEmpty; //불리언 타입
+  }
+
