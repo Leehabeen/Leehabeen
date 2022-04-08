@@ -17,5 +17,17 @@ double j = 10.0;
   
   name = '홍길동';
    //String(문자열)로 선언한 name에 '홍길동'이라는 값을 할당해줌
+  
+ num q = 10;
+ num  w = 20.0;
+  //int와 double은 num타입에 포함됨
+  
+  print(i);
+  print(j);
+  print(b);
+  print(name);
+  print(q);
+  print(w);
+  //값 할당한 변수 출력해보기
   }
 
