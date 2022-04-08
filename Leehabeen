@@ -1,0 +1,12 @@
+
+
+void main() {
+  bool b = true; //참 (거짓은 false)
+ 
+  print(b);  //bool 자료형으로 위에서 선언한 true 값을 프린트함
+  
+  
+  //bool에 변수를 담아서 나중에 if같은 조건문에 많이 사용함
+  
+  }
+
